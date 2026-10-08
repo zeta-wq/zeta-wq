@@ -9,9 +9,7 @@
     </div>
  
 # 💫 About Me:
-🚀 Main proyect: hosting web for everyone with one of the best cybersecurity on spain z-infraweb.<br>🌐 Team Ups: Open to collaboration! Cybersecurity? Systems? Hardware?.<br>📘 I'm currently learning: cryptography and IA tools.<br>🔍 My Specialty: cybersecurity, learning quickly and new things about computing and math.<br>🏢 My company: <img href="https://z-infraweb.com/"> <a href="https://z-infraweb.com" target="_blank">
-  <img src="https://z-infraweb.com/wp-content/uploads/2026/08/z-infraweb-favicon-32x32-1.png" alt="Logo de mi empresa" width="20"/>
-</a>
+🚀 Main proyect: hosting web for everyone with one of the best cybersecurity on spain z-infraweb.<br>🌐 Team Ups: Open to collaboration! Cybersecurity? Systems? Hardware?.<br>📘 I'm currently learning: cryptography and IA tools.<br>🔍 My Specialty: cybersecurity, learning quickly and new things about computing and math.<br>
 
 
 <h2 align="left" >My Skills Include</h2>
